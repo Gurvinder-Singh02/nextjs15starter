@@ -1,6 +1,17 @@
-// {
-//     "eslint.workingDirectories": ["."],
-//     "eslint.options": {
-//       "configFile": ".eslintrc.js"
-//     }
-//   }
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay", 
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.enablePreview": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.addMissingImports.ts": "explicit",
+      "source.fixAll.eslint": "always"
+    },
+    "css.lint.duplicateProperties": "warning"
+  }
+  
