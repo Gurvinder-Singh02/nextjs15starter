@@ -12,6 +12,8 @@
       "source.addMissingImports.ts": "explicit",
       "source.fixAll.eslint": "always"
     },
-    "css.lint.duplicateProperties": "warning"
+    "files.associations": {
+    "*.css": "tailwindcss"
+    },
   }
   

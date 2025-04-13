@@ -483,14 +483,3 @@ html {
   }
 }
 
-@layer utilities {
-  .fc {
-    @apply flex items-center justify-center;
-  }
-  .fcc {
-    @apply flex flex-col items-center justify-center;
-  }
-  .s {
-    @apply h-screen w-screen;
-  }
-}
