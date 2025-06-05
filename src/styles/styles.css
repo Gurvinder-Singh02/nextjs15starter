@@ -10,6 +10,11 @@
   .s {
     @apply h-screen w-screen;
   }
+
+  .r {
+    @apply rounded-full;
+  }
+
   .bg-pattern {
     background-image:
       linear-gradient(#00000010 1px, transparent 0),
