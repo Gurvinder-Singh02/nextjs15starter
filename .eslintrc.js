@@ -78,5 +78,11 @@ module.exports = {
     ],
     //#endregion  //*======== Import Sort ===========
   },
-  ignorePatterns: ["src/components/ui/", "node_modules", ".next", "public", "old-tailwind.config.ts"],
+  ignorePatterns: [
+    "src/components/ui/",
+    "node_modules",
+    ".next",
+    "public",
+    "old-tailwind.config.ts",
+  ],
 };
